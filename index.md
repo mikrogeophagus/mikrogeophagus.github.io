@@ -1,4 +1,4 @@
-![N予備校](https://progedu.github.io/forum-ranking/assets/images/logo-n.svg)
+<img src="profile_image.png" width="280">
 
 # About
 簡単な自己紹介やアピール。
