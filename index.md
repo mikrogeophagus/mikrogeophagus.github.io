@@ -1,3 +1,5 @@
+<title>ポートフォリオ</title>
+
 <img src="profile_image.png" width="280">
 
 # About
