@@ -1,6 +1,16 @@
 <style>
   h1:first-child { display: none; }
+
+  header { background: #eeeeee; }
+  header > div { width: 650px; height: 100px; margin: auto; display: flex; justify-content: space-between; align-items: center; }
 </style>
+
+<header>
+  <div>
+    <h1>ポートフォリオ</h1>
+    <nav><a>お問い合わせ</a></nav>
+  </div>
+</header>
 
 <img src="profile_image.png" width="280">
 
