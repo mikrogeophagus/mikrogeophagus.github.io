@@ -3,7 +3,7 @@
   h1:first-child { display: none; }
 
   header { background: #eeeeee; }
-  header > div { width: 650px; height: 100px; margin: auto; display: flex; justify-content: space-between; align-items: center; }
+  header > div { max-width: 650px; height: 100px; margin: auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; }
 </style>
 
 <header>
