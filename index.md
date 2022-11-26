@@ -1,6 +1,6 @@
 <style>
-  html, body, .markdown-body { width: 100% !important; height:100% !important; margin: 0 !important; padding: 0 !important; }
-  h1:first-child { display: none; }
+  html, body, .markdown-body { max-width: initial !important; width: 100% !important; height:100% !important; margin: 0 !important; padding: 0 !important; }
+  h1:first-of-type { display: none; }
 
   header { background: #eeeeee; }
   header > div { width: 650px; height: 100px; margin: auto; display: flex; justify-content: space-between; align-items: center; }
