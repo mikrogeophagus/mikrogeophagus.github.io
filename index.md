@@ -9,7 +9,7 @@
 <header>
   <div>
     <h1>ポートフォリオ</h1>
-    <nav><a>お問い合わせ</a></nav>
+    <nav><a href="https://nnn.ed.nico">お問い合わせ</a></nav>
   </div>
 </header>
 
