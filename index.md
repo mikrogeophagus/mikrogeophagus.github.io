@@ -2,9 +2,8 @@
   html, body, .markdown-body { max-width: initial !important; width: 100% !important; height:100% !important; margin: 0 !important; padding: 0 !important; }
   h1:first-child { display: none; }
 
-  header { background: #eeeeee; }
+  header { background: #eeeeee; margin-bottom: 100px; }
   header > div { max-width: 650px; height: 100px; margin: auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; }
-  main { max-width: 650px; margin: 100px auto; }
 </style>
 
 <header>
@@ -14,8 +13,6 @@
     <nav><a href="https://nnn.ed.nico">お問い合わせ</a></nav>
   </div>
 </header>
-
-<main>
 
 <img src="profile_image.png" width="280">
 
@@ -65,5 +62,3 @@
 ## Twitter
 <a class="twitter-timeline" data-lang="ja" data-width="560" data-height="600" href="https://twitter.com/n_yobikou?ref_src=twsrc%5Etfw">Tweets by n_yobikou</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</main>
