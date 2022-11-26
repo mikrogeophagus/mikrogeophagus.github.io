@@ -1,5 +1,5 @@
 <style>
-  html, body, .markdown-body { width: 100%; height:100%; }
+  html, body, .markdown-body { width: 100% !important; height:100% !important; margin: 0 !important; padding: 0 !important; }
   h1:first-child { display: none; }
 
   header { background: #eeeeee; }
