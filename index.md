@@ -2,7 +2,7 @@
   html, body, .markdown-body { max-width: initial !important; width: 100% !important; height:100% !important; margin: 0 !important; padding: 0 !important; }
   h1:first-child { display: none; }
 
-  header { background: #eeeeee; margin-bottom: 100px; }
+  header { background: linear-gradient(to bottom right, #00a5ff, #77ff27); color: #fff; margin-bottom: 100px; }
   header > div { max-width: 650px; height: 100px; margin: auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; }
 </style>
 
