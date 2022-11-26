@@ -4,6 +4,7 @@
 
   header { background: #eeeeee; }
   header > div { max-width: 650px; height: 100px; margin: auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; }
+  main { max-width: 650px; margin: 100px auto; }
 </style>
 
 <header>
