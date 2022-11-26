@@ -18,3 +18,7 @@
 
 ## Open Processing
 <iframe src="https://openprocessing.org/sketch/1752707/embed/" width="560" height="315"></iframe>
+
+## Twitter
+<a class="twitter-timeline" data-lang="ja" data-width="560" data-height="600" href="https://twitter.com/n_yobikou?ref_src=twsrc%5Etfw">Tweets by n_yobikou</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
