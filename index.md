@@ -1,5 +1,5 @@
 <style>
-  h1, h2, h3, h4, h5, h6 { color: #00d5ff; }
+  h1:first-child { display: none; }
 </style>
 
 <img src="profile_image.png" width="280">
