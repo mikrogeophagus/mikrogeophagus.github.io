@@ -15,6 +15,8 @@
   </div>
 </header>
 
+<main>
+
 <img src="profile_image.png" width="280">
 
 # About
@@ -63,3 +65,5 @@
 ## Twitter
 <a class="twitter-timeline" data-lang="ja" data-width="560" data-height="600" href="https://twitter.com/n_yobikou?ref_src=twsrc%5Etfw">Tweets by n_yobikou</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</main>
